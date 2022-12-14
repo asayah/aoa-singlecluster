@@ -1,3 +1,4 @@
 [submodule "aoa-tools"]
 	path = aoa-tools
 	url = https://github.com/asayah/aoa-tools
+	branch = main
